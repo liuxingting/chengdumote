@@ -1,0 +1,25 @@
+{
+  "name": "chengdumote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[A\u001b[A\u001bwangzhan\u001b[B\u001b[B\u001b[B\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "liujiajia",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.4.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-uglify": "^3.0.0"
+  }
+}
